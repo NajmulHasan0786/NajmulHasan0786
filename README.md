@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NajmulHasan0786
+- 👋 Hi, I’m Najmul Hasan
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning M.Tech
 - 💞️ I’m looking to collaborate in the IT industry 
